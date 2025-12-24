@@ -9,7 +9,6 @@ public class NnitSolutionsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(NnitSolutionsApplication.class, args);
 
-        System.out.println("Prakash");
+        System.out.println("Pravallika");
 	}
-
 }
